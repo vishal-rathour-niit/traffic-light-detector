@@ -6,6 +6,6 @@ first set project path than run commnad python manage.py runserver
 
 # you can pridict using of form or you can check with API
 form view
-<img src="first.png">
+<img src="first.PNG">
 API view
-<img src="postmen1.png"  >
+<img src="postmen1.PNG"  >
